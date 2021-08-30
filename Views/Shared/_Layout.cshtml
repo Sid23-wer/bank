@@ -1,0 +1,339 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Valsa Bank</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/all.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-light">
+        <div class="container-fluid">
+            <img src="~/Images/vb-01.png" class="img-responsive" height="28" width="28">
+            <a class="navbar-brand text-dark font-weight-bold " href="#">VALSA BANK</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarsExample04">
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link  px-3 active text-dark font-weight-bold" aria-expanded="false" style="cursor:pointer">Accounts</a>
+                        <ul class="dropdown-menu">
+
+                            <li><a class="dropdown-item" href="#">Create Customer</a></li>
+                            <li><a class="dropdown-item" href="#">Customer Details</a></li>
+                            <li><a class="dropdown-item" href="#">Create account for existing customer</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link px-3 active text-dark font-weight-bold" style="cursor:pointer"><i class="fas fa-wallet"></i>Transactions</a>
+                        <ul class="dropdown-menu">
+
+                            <li><a class="dropdown-item" href="#">Your Transactions History</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link px-3 active text-dark font-weight-bold" style="cursor:pointer"><i class="fas fa-wallet"></i>Statement</a>
+                        
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link  px-3 active text-dark font-weight-bold" aria-expanded="false" style="cursor:pointer"><i class="far fa-arrow-alt-circle-right"></i>    Pay</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Deposit</a></li>
+                            <li><a class="dropdown-item" href="#">Withdrawl</a></li>
+                            <li><a class="dropdown-item" href="#">Transfer</a></li>
+                        </ul>
+
+                </ul>
+
+            </div>
+            <div class="mx-2 float-right">
+                <button type="button" class="btn btn-danger ">Login</button>
+                <button type="button" class="btn btn-danger ">SignUp</button>
+            </div>
+        </div>
+    </nav>
+    <div class="px-3 py-2 border-bottom mb-3">
+        <div class="container-fluid d-flex flex-wrap">
+            <form>
+                <input type="search" class="form-control" placeholder="Search for products and services..." size="40" style="margin-left:-17px" aria-label="Search">
+            </form>
+
+
+        </div>
+    </div>
+
+    <style>
+        .cards-wrapper {
+            display: flex;
+            justify-content: center;
+        }
+
+        .card img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        .card {
+            margin: 0 0.5em;
+            box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+            border: none;
+            border-radius: 0;
+        }
+
+        .carousel-inner {
+            padding: 1em;
+        }
+
+        .carousel-control-prev,
+        .carousel-control-next {
+            background-color: #e1e1e1;
+            width: 5vh;
+            height: 5vh;
+            border-radius: 50%;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .b-example-divider {
+            height: 3rem;
+            background-color: rgba(0, 0, 0, .1);
+            border: solid rgba(0, 0, 0, .15);
+            border-width: 1px 0;
+            box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+        }
+
+        .form-control-dark {
+            color: #fff;
+            background-color: var(--bs-dark);
+            border-color: var(--bs-gray);
+        }
+
+            .form-control-dark:focus {
+                color: #fff;
+                background-color: var(--bs-dark);
+                border-color: #fff;
+                box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+            }
+
+        .bi {
+            vertical-align: -.125em;
+            fill: currentColor;
+        }
+
+        .text-small {
+            font-size: 85%;
+        }
+
+        .dropdown-toggle {
+            outline: 0;
+        }
+
+        a {
+            color: darkorange;
+        }
+
+            a:hover {
+                color: gold;
+                text-decoration:none;
+            }
+
+        .fa {
+            padding: 5px;
+            font-size: 20px;
+            width: 30px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+        }
+
+            .fa:hover {
+                opacity: 0.7;
+            }
+
+        .fa-facebook {
+            background: #3B5998;
+            color:white;
+        }
+
+        .fa-twitter {
+            background: #55ACEE;
+            color:white;
+        }
+
+        .fa-google {
+            background: #dd4b39;
+            color:white;
+        }
+
+        .fa-instagram {
+            background: #007bb5;
+            color:white;
+        }
+        .dropdown:hover .dropdown-menu {
+            display: block;
+            margin-top: 0;
+        }
+
+        .abcd{
+            color:white;
+        }
+        .mx-2{
+            margin-left:80px;
+        }
+    </style>
+
+    <main role="main" class="pb-3">
+
+
+        @RenderBody()
+    </main>
+
+<div class="container">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="~/images/17.jpg" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="~/images/18.jpg" alt="Second slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="~/images/22.jpg" alt="Third slide">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+    <footer class="page-footer font-small indigo bg-dark text-light">
+        <!-- Footer -->
+        <!-- Footer Links -->
+        <div class="container text-center text-md-left border-bottom">
+
+            <!-- Grid row -->
+            <div class="row">
+
+                <!-- Grid column -->
+                <div class="col-md-4 mx-auto">
+
+                    <!-- Links -->
+                    <h5 class="font-weight-bold text-uppercase mt-3 mb-4">
+                        About Us
+
+                    </h5>
+
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="#!">
+                                Overview
+                            </a><a href="#!"><br> Rules  </a><a href="#!"><br> Careers </a>
+                        </li>
+
+                    </ul>
+
+
+
+                </div>
+                <!-- Grid column -->
+
+                <hr class="clearfix w-100 d-md-none">
+
+                <!-- Grid column -->
+                <div class="col-md-4 mx-auto">
+
+                    <!-- Links -->
+                    <h5 class="font-weight-bold text-uppercase mt-3 mb-4">
+                        Resources
+
+                    </h5>
+
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="#!">
+                                Ways to bank
+                            </a> <a href="#!"><br>Online Services  </a> <a href="#!"><br /> Learning Center</a> 
+
+
+                        </li>
+
+                    </ul>
+
+
+                </div>
+                <hr class="clearfix w-100 d-md-none">
+
+                <!-- Grid column -->
+                <div class="col-md-4 mx-auto">
+
+                    <!-- Links -->
+                    <h5 class="font-weight-bold text-uppercase mt-3 mb-4">
+                        Customers Services
+
+                    </h5>
+
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="#!">
+                                Important Info
+                            </a> <a href="#!"><br>Write To Us </a> <a href="#!"><br /> Download Statement</a> 
+
+
+                        </li>
+
+                    </ul>
+
+
+                </div>
+                
+            </div>
+                   
+                
+
+        </div>
+        <!-- Footer Links -->
+        <!-- Copyright -->
+        <div class="container py-3 my-4">
+
+            <ul class="nav justify-content-center pb-3 mb-3 font-weight-bold " >
+                <li class="nav-item"><a href="#" class="nav-link px-2 abcd">Home</a></li>
+                <li class="nav-item"><a asp-area="" asp-controller="Home" asp-action="Contact" class="nav-link px-2  abcd">Contact Us</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 abcd">Disclaimer</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 abcd">Terms and Conditions</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 abcd">Privacy Policy</a></li>
+            </ul>
+
+
+        </div>
+         <div class="container ">
+                <div class="text-left">
+                    <span class=" pb-3 mb-3 my-lg-5 abcd">&copy; 2021, VALSA BANK</span>
+                </div>
+            
+
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
