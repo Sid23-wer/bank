@@ -38,3 +38,6 @@ D:\footerrrrr\obj\Debug\net5.0\ref\footerrrrr.dll
 D:\footerrrrr\obj\Debug\net5.0\footerrrrr.pdb
 D:\footerrrrr\obj\Debug\net5.0\footerrrrr.genruntimeconfig.cache
 D:\footerrrrr\obj\Debug\net5.0\footerrrrr.csproj.CopyComplete
+D:\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Overview.cshtml.g.cs
+D:\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Vision.cshtml.g.cs
+D:\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Ways.cshtml.g.cs

@@ -28,6 +28,18 @@ namespace footerrrrr.Controllers
             return View();
         }
 
+         public IActionResult Overview()
+        {
+            return View();
+        }
+         public IActionResult Vision()
+        {
+            return View();
+        }
+         public IActionResult Ways()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
