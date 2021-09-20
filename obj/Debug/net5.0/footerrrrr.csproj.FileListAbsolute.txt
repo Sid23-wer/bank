@@ -41,3 +41,46 @@ D:\footerrrrr\obj\Debug\net5.0\footerrrrr.csproj.CopyComplete
 D:\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Overview.cshtml.g.cs
 D:\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Vision.cshtml.g.cs
 D:\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Ways.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\appsettings.json
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.exe
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.deps.json
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.runtimeconfig.json
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.runtimeconfig.dev.json
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.dll
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\ref\footerrrrr.dll
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.pdb
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.Views.dll
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\bin\Debug\net5.0\footerrrrr.Views.pdb
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.csproj.AssemblyReference.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.AssemblyInfoInputs.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.AssemblyInfo.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.csproj.CoreCompileInputs.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.RazorAssemblyInfo.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.RazorAssemblyInfo.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\staticwebassets\footerrrrr.StaticWebAssets.Manifest.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\staticwebassets\footerrrrr.StaticWebAssets.xml
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\scopedcss\bundle\footerrrrr.styles.css
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.TagHelpers.input.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.TagHelpers.output.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.RazorCoreGenerate.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Overview.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Vision.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Home\Ways.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.RazorTargetAssemblyInfo.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.RazorTargetAssemblyInfo.cs
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.Views.pdb
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.dll
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\ref\footerrrrr.dll
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.pdb
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.genruntimeconfig.cache
+C:\Users\Lekha Tiwari\Desktop\ValsaBank\footerrrrr\obj\Debug\net5.0\footerrrrr.csproj.CopyComplete

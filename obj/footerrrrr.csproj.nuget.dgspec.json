@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\footerrrrr\\footerrrrr.csproj": {}
+    "C:\\Users\\Lekha Tiwari\\Desktop\\ValsaBank\\footerrrrr\\footerrrrr.csproj": {}
   },
   "projects": {
-    "D:\\footerrrrr\\footerrrrr.csproj": {
+    "C:\\Users\\Lekha Tiwari\\Desktop\\ValsaBank\\footerrrrr\\footerrrrr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\footerrrrr\\footerrrrr.csproj",
+        "projectUniqueName": "C:\\Users\\Lekha Tiwari\\Desktop\\ValsaBank\\footerrrrr\\footerrrrr.csproj",
         "projectName": "footerrrrr",
-        "projectPath": "D:\\footerrrrr\\footerrrrr.csproj",
-        "packagesPath": "C:\\Users\\siddh\\.nuget\\packages\\",
-        "outputPath": "D:\\footerrrrr\\obj\\",
+        "projectPath": "C:\\Users\\Lekha Tiwari\\Desktop\\ValsaBank\\footerrrrr\\footerrrrr.csproj",
+        "packagesPath": "C:\\Users\\Lekha Tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lekha Tiwari\\Desktop\\ValsaBank\\footerrrrr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\siddh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lekha Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
